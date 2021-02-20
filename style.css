@@ -51,13 +51,13 @@ a:focus {
   display: inline-block;
 }
 
-.twit-container {
+.category {
   margin: 50px 10%;
   display: flex;
   flex-wrap: wrap;
 }
 
-.twit {
+.list-item {
   flex: 0 1 28%;
   display: flex;
   margin: 2px;
@@ -80,7 +80,7 @@ a:focus {
   margin: 0;
 }
 
-.twit-content .twit-author {
+.category-title {
   margin-top: 8px;
   text-align: center;
   font-weight: bold;
