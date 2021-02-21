@@ -93,18 +93,25 @@ a:focus {
   font-weight: bold;
   outline: 1px solid #000;
   background-color: lightgrey;
+  font-size: 18px;
 }
 
-.skill-title{
+.item-title{
 	font-weight: bold;
+	text-align: center
 }
 
 footer a{
 	color: white;
 }
 
+footer p{
+	margin: 4px;
+}
+
 footer {
 	font-size: 12px;
 	background-color: #000;
 	text-align: center;
+	padding: 15px
 }
