@@ -15,7 +15,6 @@ a {
   font-weight: 100;
   background-color: #ff0000;
   color: #fff;
-   text-align: center;
 }
 
 .navbar {
@@ -51,11 +50,17 @@ a:focus {
   display: inline-block;
 }
 
+.qualification-center {
+	display: flex;
+	justify-content: center;
+}
+
 .item-container {
   margin: 50px 10%;
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
+  flex-direction: column;
+  align-content: center;
 }
 
 .item {
@@ -68,16 +73,12 @@ a:focus {
   background-color: #fff;
 }
 
-.twit-icon {
-  font-size: 24px;
-}
-
-.twit-content {
+.item-content {
   flex: 1 1 80%;
   margin-left: 10px;
 }
 
-.twit-content p {
+.item-content p {
   margin: 0;
 }
 
