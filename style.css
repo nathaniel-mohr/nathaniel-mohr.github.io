@@ -95,6 +95,10 @@ a:focus {
   background-color: lightgrey;
 }
 
+.skill-title{
+	font-weight: bold;
+}
+
 footer a{
 	color: white;
 }
