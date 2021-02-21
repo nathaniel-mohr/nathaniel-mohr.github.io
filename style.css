@@ -50,7 +50,7 @@ a:focus {
   display: inline-block;
 }
 
-.qualification-center {
+.qualification-container {
 	display: flex;
 	justify-content: center;
 }
