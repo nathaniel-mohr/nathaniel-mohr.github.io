@@ -114,4 +114,8 @@ footer {
 	background-color: #000;
 	text-align: center;
 	padding: 15px;
+	position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
 }
