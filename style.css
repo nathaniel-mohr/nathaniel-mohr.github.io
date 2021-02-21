@@ -95,7 +95,12 @@ a:focus {
   background-color: lightgrey;
 }
 
-footer {
-	background-color: #000;
+footer a{
 	color: white;
+}
+
+footer {
+	font-size: 12px;
+	background-color: #000;
+	text-align: center;
 }
