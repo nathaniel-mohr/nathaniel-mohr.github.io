@@ -104,6 +104,14 @@ a:focus {
 	font-weight: bold;
 }
 
+.item a{
+	color: mediumblue;
+}
+
+.item a:hover{
+	color: white;
+}
+
 img {
 	width: 100%;
 	margin-top: 25px;
@@ -120,13 +128,17 @@ iframe{
 
 footer ul{
 	padding: 0px;
-	margin: 0px;
+	margin: 5px;
 	list-style-type: none;
 }
 
 footer p{
 	margin: 4px;
 	font-size: 10px;
+}
+
+footer a {
+	color: white;
 }
 
 footer {
