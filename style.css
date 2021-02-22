@@ -82,7 +82,7 @@ a:focus {
   margin: 50px 10%;
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: space-evenly;
 }
 
 .item {
@@ -114,6 +114,7 @@ footer a{
 
 footer p{
 	margin: 4px;
+	color: white;
 }
 
 footer {
