@@ -78,6 +78,17 @@ a:focus {
   padding: 10px;
 }
 
+.image-container{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+}
+
+.image-containter img{
+	max-width: 400px;
+	max-height: 400px;
+}
+
 .item-container {
   margin: 50px 10%;
   display: flex;
@@ -114,11 +125,7 @@ a:focus {
 
 img {
 	margin-top: 25px;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	max-width: 400px;
-	max-height: 400px;
+	width: 100%;
 }
 
 iframe{
