@@ -85,6 +85,10 @@ a:focus {
 	padding: 25px;
 }
 
+img{
+	margin-top: 25px;
+}
+
 .image-container img{
 	max-width: 400px;
 	max-height: 400px;
@@ -101,7 +105,7 @@ a:focus {
   flex-direction: column;
 }
 
-.project-image{
+.project-image {
 	width: 100%;
 	margin-top: 25px;
 }
