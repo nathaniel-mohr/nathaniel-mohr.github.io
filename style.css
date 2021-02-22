@@ -81,8 +81,7 @@ a:focus {
 .item-container {
   margin: 50px 10%;
   display: flex;
-  flex-wrap: wrap;
-  justify-content: space-evenly;
+  flex-direction: column;
 }
 
 .item {
