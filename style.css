@@ -80,7 +80,7 @@ a:focus {
 
 .image-container{
 	display: flex;
-	flex-flow: wrap-reverse;
+	flex-wrap: wrap;
 	justify-content: space-evenly;
 	padding: 25px;
 }
