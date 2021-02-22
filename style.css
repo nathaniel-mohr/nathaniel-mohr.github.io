@@ -82,6 +82,7 @@ a:focus {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-evenly;
+	padding: 25px;
 }
 
 .image-container img{
@@ -93,7 +94,6 @@ a:focus {
   margin: 50px 10%;
   display: flex;
   flex-direction: column;
-  padding: 25px;
 }
 
 .item {
