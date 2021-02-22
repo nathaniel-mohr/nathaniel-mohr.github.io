@@ -118,17 +118,14 @@ iframe{
 	margin-top: 10px;
 }
 
-footer a{
-	color: white;
-}
-
 footer ul{
 	padding: 0px;
+	margin: 0px;
+	list-style-type: none
 }
 
 footer p{
 	margin: 4px;
-	color: white;
 	font-size: 10px;
 }
 
@@ -140,4 +137,5 @@ footer {
 	display: flex;
 	align-items: center;
 	flex-direction: column;
+	color: white;
 }
