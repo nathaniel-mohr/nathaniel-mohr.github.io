@@ -101,6 +101,10 @@ a:focus {
   flex-direction: column;
 }
 
+.item-container img{
+	width: 100%;
+}
+
 .item {
   margin: 2px;
   padding: 20px;
@@ -131,7 +135,6 @@ a:focus {
 
 img {
 	margin-top: 25px;
-	width: 100%;
 }
 
 iframe{
