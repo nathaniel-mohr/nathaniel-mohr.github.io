@@ -86,8 +86,6 @@ a:focus {
 }
 
 .item {
-  flex: 0 1 28%;
-  display: flex;
   margin: 2px;
   padding: 20px;
   border: 1px solid #dadada;
@@ -96,7 +94,6 @@ a:focus {
 }
 
 .item-content {
-  flex: 1 1 80%;
   margin-left: 10px;
 }
 
@@ -110,6 +107,10 @@ a:focus {
 
 footer a{
 	color: white;
+}
+
+footer ul{
+	padding: 0px;
 }
 
 footer p{
