@@ -104,6 +104,17 @@ a:focus {
 	font-weight: bold;
 }
 
+img {
+	width: 100%;
+}
+
+iframe{
+	display: block;
+	width: auto;
+	width-top: 20px;
+	width-bottom: 10px;
+}
+
 footer a{
 	color: white;
 }
