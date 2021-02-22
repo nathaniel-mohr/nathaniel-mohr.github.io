@@ -90,6 +90,11 @@ a:focus {
 	max-height: 400px;
 }
 
+.image-title{
+	font-weight: bold;
+	text-align: center;
+}
+
 .item-container {
   margin: 50px 10%;
   display: flex;
