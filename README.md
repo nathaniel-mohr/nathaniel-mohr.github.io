@@ -1,4 +1,4 @@
-Nathaneil Mohr Portfolio Site
+Nathaniel Mohr Portfolio Site
 
 Includes:
 	- Home Page
