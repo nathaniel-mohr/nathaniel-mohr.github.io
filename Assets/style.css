@@ -85,11 +85,11 @@ a:focus {
 	padding: 25px;
 }
 
-img{
+figure{
 	margin-top: 25px;
 }
 
-.image-container img{
+.image-container figure{
 	max-width: 400px;
 	max-height: 400px;
 }
