@@ -85,18 +85,13 @@ a:focus {
 	padding: 25px;
 }
 
-figure{
-	margin-top: 25px;
-}
-
 figure img{
 	max-width: 400px;
 	max-height: 400px;
 }
 
-.image-title{
-	font-weight: bold;
-	text-align: center;
+figcaption{
+  text-align: center;
 }
 
 .item-container {
