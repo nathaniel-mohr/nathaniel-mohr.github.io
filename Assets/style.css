@@ -89,7 +89,7 @@ figure{
 	margin-top: 25px;
 }
 
-.image-container figure{
+figure img{
 	max-width: 400px;
 	max-height: 400px;
 }
